@@ -2,7 +2,7 @@
 We have the following repositories for our solution:
 1. [Android app]( https://github.com/lswarnkar1/JU-eezy-3.git)
 2. [Website](https://github.com/yashrajmishra/JU-eezy-Web.git)
-3. [Blogs](https://github.com/yashrajmishra/JU-eezy-Web.git)
+3. [Blogs](https://github.com/yashrajmishra/JU-eezy-Blog.git)
 4. [Google Action](https://github.com/lswarnkar1/JU-eezy-dialogflowFirebaseFulfillment.git)
 
 Android app and Google Action repositories are private, so we have added solutionchallengesubmissions@google.com as a collaborator. Still, if it doesn't work you can access them using Google Drive too:
